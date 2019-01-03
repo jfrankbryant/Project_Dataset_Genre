@@ -1,0 +1,11 @@
+#read in books or ISBNs
+
+#genre stuff
+
+
+#potential APIs to use
+Amazon API:
+https://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
+
+GoodReads API:
+https://www.goodreads.com/api
