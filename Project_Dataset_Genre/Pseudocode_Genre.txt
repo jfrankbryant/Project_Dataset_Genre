@@ -4,8 +4,13 @@
 
 
 #potential APIs to use
+#added this option on 1/3/18
+Google Books API:
+https://developers.google.com/books/docs/v1/getting_started
+
 Amazon API:
 https://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
 
+#ruled out usage of this API on 1/3/18 because of restrictive uses of data (https://www.goodreads.com/api/terms)
 GoodReads API:
 https://www.goodreads.com/api
